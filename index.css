@@ -1,0 +1,8 @@
+.baby-process:hover {
+  background-color: silver;
+  cursor: pointer;
+}
+.click {
+  background-color: rgba(52, 152, 219,0.2);
+  cursor: pointer;
+}
